@@ -1,0 +1,13 @@
+*.class
+*.txt
+/.idea
+/target
+/.gradle/
+/out/
+/build/
+/bin/
+/.scannerwork/
+/.sonar/
+/.settings/
+
+
